@@ -1,0 +1,8 @@
+
+    .software{
+        margin: 20px;        
+    }
+    /* Adding space at the bottom of progress bar */
+    .progress{
+        margin-bottom: 1rem;
+    }
